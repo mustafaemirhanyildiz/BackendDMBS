@@ -13,7 +13,7 @@ Projeyi çalıştırmak için yapılması gerekenler
 
 Api/Properties/launchSettings.json dizinindeki  "applicationUrl": "http://192.168.1.107:5243" kısmı kendi ip adresinizle değiştirmek  http://İP-ADRESİNİZ:5243
 
-DataAccess/MyDbContext.cs dizinindeki     string connString = "Server=localhost; User=; Password=; Database=VTProject"; Kısmına kendi ad ve şifrenizi girmek
+DataAccess/MyDbContext.cs dizinindeki     string connString = "Server=localhost; User=; Password=; Database=VTProject"; Kısmına kendi mySql ad ve şifrenizi girmek
 
 
 Package Manager->add-migration myMigration
