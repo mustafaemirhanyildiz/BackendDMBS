@@ -17,7 +17,8 @@ DataAccess/MyDbContext.cs dizinindeki     string connString = "Server=localhost;
 
 
 Packet Manager->add-migration myMigration
+                 Update-Database
 
 Terminal->dotnet ef migrations add myMigration
+          dotnet ef database update
 
-Update-Database
