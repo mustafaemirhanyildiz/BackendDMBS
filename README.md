@@ -19,6 +19,6 @@ DataAccess/MyDbContext.cs dizinindeki     string connString = "Server=localhost;
 Package Manager->add-migration myMigration
                  Update-Database
 
-Terminal->dotnet ef migrations add myMigration
-          dotnet ef database update
+BackendDBMS\DataAccess dizini altında bi terminal oluşturup->dotnet ef migrations add myMigration
+                                                             dotnet ef database update
 
