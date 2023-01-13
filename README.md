@@ -1,5 +1,4 @@
 # BackendDMBS
-backend system to manage charging stations
 -Veritabanı projesi için backend sistemi-
 
 Proje Konusu
