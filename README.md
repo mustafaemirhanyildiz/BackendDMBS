@@ -17,4 +17,7 @@ Api/Properties/launchSettings.json dizinindeki  "applicationUrl": "http://192.16
 DataAccess/MyDbContext.cs dizinindeki     string connString = "Server=localhost; User=; Password=; Database=VTProject"; Kısmına kendi ad ve şifrenizi girmek
 
 PM> add-migration myMigration
+
 dotnet ef migrations add myMigration
+
+Update-Database
