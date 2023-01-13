@@ -8,7 +8,7 @@ Proje şarj istasyonlarına kurulacak araç şarj cihazlarının kontrolünü sa
 Elektrikli araç şarj cihazlarının bakım, arıza tamir gibi işlemlerini takip etmeye yarayan bir projedir. Web uygulamasında personeller,
 istasyonlar, servisler gibi bilgiler görüntülenebilecek ve düzenlenebilecektir. Mobil uygulamada ise cihaz için servis ekleme işlemi 
 yapılabilecektir.Personel istasyona giderek orada bulunan cihazlara servis işlemi (arıza tamiri, bakım) yapacak ve bunu mobil
-uygulamadan kayıt edecektir. Bu repository projenin backend sistemini içermektedir.
+uygulamadan kayıt edecektir. Bu repository projenin backend sistemini içermektedir.Projeyi çalıştırarak swagger'da testlerinizi yapabilirsiniz.
 
 Projeyi çalıştırmak için yapılması gerekenler
 
